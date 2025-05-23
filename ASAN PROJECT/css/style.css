@@ -175,14 +175,14 @@ header {
     gap: 7.5px;
 
     width: fit-content;
-    height: 37px;
     padding: 0 15px;
-    overflow: hidden;
+    overflow-y: hidden;
 }
 
 .category-wrap li {
     width: fit-content;
     height: fit-content;
+    padding: 10px 0;
 }
 
 .category-wrap a, .category-wrap .category {
